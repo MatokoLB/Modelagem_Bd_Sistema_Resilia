@@ -5,14 +5,14 @@ Um banco de dados SQL de uma platafoma de cursos.
 
 ## MODELO CONCEITUAL
 
-<div align="center"
-img src="https://user-images.githubusercontent.com/112680379/213394028-11e24b49-c4ab-4f51-9054-8018c480a3c6.png" width="70px"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/112680379/213394028-11e24b49-c4ab-4f51-9054-8018c480a3c6.png" width="700px"/>
 </div>
 
-![MODELO conceitual](https://user-images.githubusercontent.com/112680379/213394028-11e24b49-c4ab-4f51-9054-8018c480a3c6.png)
-
 ## MODELO LÓGICO
-![MODELO LOGICO](https://user-images.githubusercontent.com/112680379/213394122-7322cb04-2b8f-4541-ab6f-59af98466fff.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/112680379/213394122-7322cb04-2b8f-4541-ab6f-59af98466fff.png" width="700px"/>
+</div>
 
 ### Perguntas sobre modelo
 
